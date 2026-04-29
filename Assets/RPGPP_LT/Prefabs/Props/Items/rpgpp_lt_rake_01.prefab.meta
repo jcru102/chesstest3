@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ea316e96c4344a49959bc87e4dc53e9
+timeCreated: 1559923577
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148410
+  packageName: RPG Poly Pack - Lite
+  packageVersion: 1.0.1
+  assetPath: Assets/RPGPP_LT/Prefabs/Props/Items/rpgpp_lt_rake_01.prefab
+  uploadId: 766582

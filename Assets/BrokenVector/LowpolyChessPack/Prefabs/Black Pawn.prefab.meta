@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dfb460926a193a6458f486f807208abd
+labels:
+- chess
+- board
+- boardgame
+- game
+- chessboard
+- Pawn
+timeCreated: 1462534607
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50405
+  packageName: Low Poly Chess Pack
+  packageVersion: 1.2
+  assetPath: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Pawn.prefab
+  uploadId: 253857

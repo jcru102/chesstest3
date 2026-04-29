@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chessgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\resignbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resignbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\moverecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moverecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|c:\\users\\cruz_jus000\\documents\\justinc\\chess\\assets\\scripts\\chessuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\mainlyapi\\stockfishapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainlyapi\\stockfishapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\mainlyapi\\fengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainlyapi\\fengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\mainlyapi\\moveconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainlyapi\\moveconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\takeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\takeback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\menus\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\menus\\pause menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\pause menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\mainlyapi\\chessmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainlyapi\\chessmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\colliderinputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\colliderinputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\tweeners\\linetweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tweeners\\linetweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\audioinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\audioinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\swap camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swap camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\uibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\uibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\uiinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\uiinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\gamereset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamereset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\tweeners\\iobjecttweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tweeners\\iobjecttweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\tweeners\\instanttweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tweeners\\instanttweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\tweeners\\arctweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tweeners\\arctweeners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\uiinputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\uiinputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\inputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\inputreciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\iinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\colliderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\colliderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\input system\\boardinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input system\\boardinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\enums\\teamcolour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enums\\teamcolour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\enums\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enums\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chess piece scripts\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chess piece scripts\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\squareselectorcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\squareselectorcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\piececreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\piececreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\materialsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\materialsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\lighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\chessplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chessplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\assets\\scripts\\boardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501BD3FF-7F48-2366-810A-1677FF50E37F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Chess Piece Scripts\\Bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Chess Piece Scripts\\Knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Chess Piece Scripts\\Rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Chess Piece Scripts\\Queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Resign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Resign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessGameController.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChessGameController.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessGameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChessGameController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:07:56.247Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChessMove.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\ChessMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainlyAPI\\ChessMove.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\ChessMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainlyAPI\\ChessMove.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA6wAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:24:55.622Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Takeback.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Takeback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Takeback.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Takeback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Takeback.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:06:05.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoveConverter.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\MoveConverter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainlyAPI\\MoveConverter.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\MoveConverter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainlyAPI\\MoveConverter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:24:47.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FENGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\FENGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainlyAPI\\FENGenerator.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\FENGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainlyAPI\\FENGenerator.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:19:48.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockfishAPIManager.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\StockfishAPIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainlyAPI\\StockfishAPIManager.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\mainlyAPI\\StockfishAPIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainlyAPI\\StockfishAPIManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:17:15.803Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:00:53.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Piece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Piece.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Piece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Piece.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwF4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:15:23.763Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChessUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChessUIManager.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChessUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:35:02.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveRecord.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\MoveRecord.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveRecord.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\MoveRecord.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:35:41.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResignButton.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ResignButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResignButton.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ResignButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResignButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:19:12.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Resign.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Resign.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Resign.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Resign.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Resign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:02:38.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LineTweeners.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\LineTweeners.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tweeners\\LineTweeners.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\LineTweeners.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tweeners\\LineTweeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:09:24.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AudioInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\AudioInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\AudioInputHandler.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\AudioInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\AudioInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:07:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Rook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\Rook.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Rook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\Rook.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:06:51.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\Queen.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Queen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\Queen.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:06:48.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main Menu.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Menus\\Main Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\Main Menu.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Menus\\Main Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\Main Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:34:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pause Menu.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Menus\\Pause Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\Pause Menu.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Menus\\Pause Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\Pause Menu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA8wDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:32:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Lighting.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Lighting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lighting.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Lighting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lighting.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:25:17.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Swap Camera.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Swap Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Swap Camera.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Swap Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Swap Camera.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T16:26:19.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Pawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\Pawn.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Pawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\Pawn.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAlwE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:08:34.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\King.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\King.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\King.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\King.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:28:28.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\Knight.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\Knight.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:04:29.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Bishop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chess Piece Scripts\\Bishop.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Chess Piece Scripts\\Bishop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chess Piece Scripts\\Bishop.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:08:22.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameReset.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\GameReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameReset.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\GameReset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:14:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIButton.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\UIButton.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\UIButton.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:16:26.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\UIInputHandler.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\UIInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:10:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SquareSelectorCreator.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\SquareSelectorCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SquareSelectorCreator.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\SquareSelectorCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SquareSelectorCreator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:06:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArcTweeners.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\ArcTweeners.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tweeners\\ArcTweeners.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\ArcTweeners.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tweeners\\ArcTweeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:02:01.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Bishop.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess Piece Scripts\\Bishop.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Bishop.cs",
+              "RelativeToolTip": "Assets\\Chess Piece Scripts\\Bishop.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:14:00.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InstantTweeners.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\InstantTweeners.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tweeners\\InstantTweeners.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\InstantTweeners.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tweeners\\InstantTweeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:25:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IObjectTweeners.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\IObjectTweeners.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tweeners\\IObjectTweeners.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Tweeners\\IObjectTweeners.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tweeners\\IObjectTweeners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T17:13:23.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ColliderInput.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\ColliderInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\ColliderInput.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\ColliderInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\ColliderInput.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:51:23.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BoardInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\BoardInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\BoardInputHandler.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\BoardInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\BoardInputHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:16:47.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ColliderInputReciever.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\ColliderInputReciever.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\ColliderInputReciever.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\ColliderInputReciever.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\ColliderInputReciever.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:13:44.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\IInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\IInputHandler.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\IInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\IInputHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:11:40.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UIInputReciever.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIInputReciever.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\UIInputReciever.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\UIInputReciever.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\UIInputReciever.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:21:18.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\InputHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:11:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InputReciever.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\InputReciever.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input System\\InputReciever.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Input System\\InputReciever.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input System\\InputReciever.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:09:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChessPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChessPlayer.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\ChessPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChessPlayer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:03:29.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MaterialSetter.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\MaterialSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MaterialSetter.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\MaterialSetter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MaterialSetter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:43:05.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PieceCreator.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\PieceCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PieceCreator.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\PieceCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PieceCreator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:59:13.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BoardLayout.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\BoardLayout.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoardLayout.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\BoardLayout.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoardLayout.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:38:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess Piece Scripts\\Knight.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Chess Piece Scripts\\Knight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:57:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess Piece Scripts\\Queen.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Queen.cs",
+              "RelativeToolTip": "Assets\\Chess Piece Scripts\\Queen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:57:33.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Rook.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess Piece Scripts\\Rook.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Chess Piece Scripts\\Rook.cs",
+              "RelativeToolTip": "Assets\\Chess Piece Scripts\\Rook.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T16:57:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Enums\\PieceType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enums\\PieceType.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Enums\\PieceType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enums\\PieceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:35:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TeamColour.cs",
+              "DocumentMoniker": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Enums\\TeamColour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enums\\TeamColour.cs",
+              "ToolTip": "C:\\Users\\cruz_jus000\\Documents\\JustinC\\Chess\\Assets\\Scripts\\Enums\\TeamColour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enums\\TeamColour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T17:34:03.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

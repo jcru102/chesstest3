@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5a31176308e8244f84b65bd3f9e506e
+timeCreated: 1559923555
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148410
+  packageName: RPG Poly Pack - Lite
+  packageVersion: 1.0.1
+  assetPath: Assets/RPGPP_LT/Prefabs/Props/Shields/rpgpp_lt_shield_wall_01a.prefab
+  uploadId: 766582

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efa31dc42bf40384a88aa909ac791d4e
+timeCreated: 1462530185
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 50405
+  packageName: Low Poly Chess Pack
+  packageVersion: 1.2
+  assetPath: Assets/BrokenVector/LowpolyChessPack/Materials/Chess Material.mat
+  uploadId: 253857
